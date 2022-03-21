@@ -208,6 +208,6 @@ var randomNumber = function (min, max) {
   return value;
 };
 //start the game when the page loads
-startGame();
+startGame(20);
 
 //testing
