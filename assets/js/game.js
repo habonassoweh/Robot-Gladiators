@@ -185,10 +185,7 @@ var shop = function () {
       }
       break;
 
-<<<<<<< HEAD
     case "LEAVE":
-=======
->>>>>>> 25f89444758fe4dfcb13cd3274915d98437a026e
     case "leave":
       window.alert("Leaving the store.");
 
