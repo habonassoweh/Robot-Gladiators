@@ -230,7 +230,3 @@ var enemyInfo = [
 ];
 //start the game when the page loads
 startGame(20);
-
-//testing
-//habon
-hello();
