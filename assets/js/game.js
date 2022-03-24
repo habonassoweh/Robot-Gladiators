@@ -209,7 +209,6 @@ var shop = function () {
   }
 };
 
-<<<<<<< HEAD
 //function to generate a random numeric value
 var randomNumber = function (min, max) {
   var value = Math.floor(Math.random() * (max - min + 1) + min);
@@ -227,8 +226,6 @@ var getPlayerName = function () {
   return name;
 };
 
-=======
->>>>>>> 051e73d1e1ecc431484ff2e432d0fd22e205f35d
 var playerInfo = {
   name: getPlayerName(),
   health: 100,
