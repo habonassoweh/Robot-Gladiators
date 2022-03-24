@@ -183,6 +183,7 @@ var endGame = function () {
   if (highScore === null) {
     highScore = 0;
   }
+
   // if player has more money than the high score, player has new high score!
   if (playerInfo.money > highScore) {
     localStorage.setItem("highscore", playerInfo.money);
