@@ -271,3 +271,4 @@ var enemyInfo = [
 startGame(20);
 
 //testing
+HTMLTableCaptionElement();
